@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AEA9AD62-BF38-4E31-BD45-23C32F6B730A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OCSC Player Evaluation/Views/web.config">
+    <Files>
+      <File FileName="OCSC Player Evaluation/Views/web.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OCSC_220Player_220Evaluation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
