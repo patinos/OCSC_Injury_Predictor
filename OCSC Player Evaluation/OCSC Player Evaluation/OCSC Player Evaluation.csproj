@@ -104,6 +104,17 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
+    <Content Include="Views\Login\Index.aspx" />
+    <Content Include="Views\Login\Register.aspx" />
+    <Content Include="StyleContent\Shared.css" />
+    <Content Include="StyleContent\Form.css" />
+    <Content Include="Views\Shared\_Layout.ascx" />
+    <Content Include="Views\Login\AccountManager.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Home\PlayerData.aspx" />
+    <Content Include="Views\Home\PlayerManagement.aspx" />
+    <Content Include="Views\Home\DrillPredictor.aspx" />
+    <Content Include="Views\Admin\Admin.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -112,6 +123,8 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
@@ -127,6 +140,12 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="StyleContent\" />
+    <Folder Include="JavaScriptContent\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
