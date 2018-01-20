@@ -1,7 +1,17 @@
 ﻿<Properties StartupConfiguration="{AEA9AD62-BF38-4E31-BD45-23C32F6B730A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OCSC Player Evaluation/Views/web.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OCSC Player Evaluation/Views/Login/Register.aspx">
     <Files>
       <File FileName="OCSC Player Evaluation/Views/web.config" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Controllers/LoginController.cs" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Controllers/AdminController.cs" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Views/Login/index.ascx" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Views/Login/Index.aspx" Line="9" Column="2" />
+      <File FileName="OCSC Player Evaluation/Views/Shared/_Layout.ascx" Line="16" Column="17" />
+      <File FileName="OCSC Player Evaluation/Views/Home/Index.aspx" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Views/Home/PlayerData.aspx" Line="1" Column="1" />
+      <File FileName="OCSC Player Evaluation/Views/Admin/Admin.aspx" Line="1" Column="2" />
+      <File FileName="OCSC Player Evaluation/Views/Home/DrillPredictor.aspx" Line="1" Column="25" />
+      <File FileName="OCSC Player Evaluation/Views/Login/Register.aspx" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
